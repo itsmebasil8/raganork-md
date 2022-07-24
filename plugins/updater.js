@@ -39,11 +39,11 @@ Module({
             }
         );
         mss = changelog;
-       var img = "https://i.imgur.com/z31OAAK.jpeg"
+       var img = "https://i.imgur.com/7Yz9IES.jpg"
        var buttons = [{
         urlButton: {
             displayText: 'WIKI',
-            url: 'https://github.com/souravkl11/raganork-md/wiki'
+            url: 'https://github.com/itsmebasil8/raganork-md'
         }
     },
     {
